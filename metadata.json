@@ -1,0 +1,10 @@
+{
+  "name": "Tır Sevkiyat ve Yükleme Takip Sistemi",
+  "description": "Tır yükleme ve sevk kontrolü, plaka ve kasa fotoğrafları, çeki listesi takibi ve e-posta sevk tutanağı raporlama sistemi.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
