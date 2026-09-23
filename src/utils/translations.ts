@@ -8,7 +8,7 @@ export const TRANSLATIONS = {
     appBadge: 'v1.0',
     tabNew: 'Yeni Yükleme',
     tabNewShipment: 'Yeni Yükleme',
-    tabHistory: 'Geçmiş Tutanaklar',
+    tabHistory: 'Geçmiş Kayıtlar',
     tabSettings: 'Ayarlar',
     onlineText: 'Çevrimiçi',
     offlineText: 'Çevrimdışı (Kayıtlar Korunur)',
